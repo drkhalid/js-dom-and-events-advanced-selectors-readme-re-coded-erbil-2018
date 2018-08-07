@@ -10,6 +10,8 @@ function ninjaBabySelector(){
   $('#baby-ninja')
 }
 
+
+
 function firstListItem(){
   $('div ul:first-child')
 }
